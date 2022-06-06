@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: blue;
+}
+h1 {
+  font-size: 80px;
+  background-color: orange;
+}
+h3 {
+  font-size: 40px;
+  background-color: yellow;
+}
+button {
+  background-color: green;
+  font-size: 25px;
+  border-radius: 50px;
+}
